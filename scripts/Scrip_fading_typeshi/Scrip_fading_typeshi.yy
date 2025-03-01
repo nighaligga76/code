@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Scrip_fading_typeshi",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Scrip_fading_typeshi",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
